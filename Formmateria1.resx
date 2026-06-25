@@ -117,29 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="ia im,g" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ia im,g.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="calculadora img" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\calculadora img.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="descarga.fondlogin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\descarga.fondlogin.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images fondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images fondo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="imagen men 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\imagen men 2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="descarga img 3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\descarga img 3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="descarga casita" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\descarga casita.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="descarga.2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\descarga.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
